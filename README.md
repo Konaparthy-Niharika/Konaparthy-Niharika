@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...web projects, python projects.
 - 📫 How to reach me... niharika.konaparthy@gmail.com 
 - LinkedIn ...https://www.linkedin.com/in/konaparthy-niharika/
-- what's app...9705433515
 - youtube...https://www.youtube.com/channel/UCNARxxrSPD-CWplySCVOPGw
 - instagram...https://www.instagram.com/niharika1811_/
 - blog...https://tehiebuzz.blogspot.com/
