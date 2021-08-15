@@ -1,4 +1,5 @@
-![Untitled Photo](https://user-images.githubusercontent.com/81929596/129479242-8076f62c-2a92-4062-b2eb-1375835d6fd9.png)
+![NIHARIKA KONAPARTHY](https://user-images.githubusercontent.com/81929596/129479839-e3b554ea-18bc-4b5e-b780-94d41678899b.png)
+
 
 <h1 align="center">Hi 👋, I'm Niharika Konaparthy</h1>
 <h3 align="center">A passionate frontend develope,machine learning engineer from India</h3>
